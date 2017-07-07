@@ -15,10 +15,10 @@ Citation
 Please use the following citation:
 
 ```text
-@inproceedings{Trapp2017SSLSPN,
+@inproceedings{Trapp2017a,
     title={Safe Semi-Supervised Learning of Sum-Product Networks},
     author={Trapp, Martin and Madl, Tamas and Peharz, Robert and Pernkopf, Franz and Trappl, Robert},
-    booktitle={Proceedings of the International Conference on Uncertainty in Artificial Intelligence},
+    booktitle={Proceedings of the International Conference on Uncertainty in Artificial Intelligence (UAI)},
     year={2017}
    }
 ```
