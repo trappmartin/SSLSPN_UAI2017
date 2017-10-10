@@ -4,11 +4,19 @@ Code accompanying the paper **Safe Semi-Supervised Learning of Sum-Product Netwo
 
 Installation
 -------
-TBD
+To train safe semi-supervised SPNs one need to install *julia* and the following packages:
 
-Experiments
+* julia 0.6
+* SumProductNetworks.jl (see: [https://github.com/trappmartin/SumProductNetworks.jl](https://github.com/trappmartin/SumProductNetworks.jl))
+
+Example
 -------
-TBD
+comming soon...
+
+
+Data sets
+-------
+The data used for the paper is located in the data folder.
 
 Citation
 -------
